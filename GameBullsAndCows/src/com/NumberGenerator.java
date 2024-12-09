@@ -1,4 +1,5 @@
 package com;
+
 import java.util.*;
 // Импортируем все из java.util для использования Scanner и коллекций.
 
