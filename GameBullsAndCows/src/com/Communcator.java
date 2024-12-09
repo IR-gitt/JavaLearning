@@ -14,6 +14,7 @@ public class Communcator {
             this.humanReadable = humanReadable;
         }
     }
+
     private GameRules test;
     String name;
     GameCount count;

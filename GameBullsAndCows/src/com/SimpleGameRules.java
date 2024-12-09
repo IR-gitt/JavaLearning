@@ -20,10 +20,3 @@ public class SimpleGameRules implements GameRules {
         return false;
     }
 }
-
-/* {//проверка ввода ? tru or,
-   try {
-        if (ndigits /= )
-    }
-        return result;
-}}catch (IOException ex); /*/

@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
+        <module name="server" />
         <module name="gameBullsAndCows" />
+        <module name="command" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
