@@ -35,12 +35,12 @@ public class Communcator {
         logger.info("Player A challenge = " + moveA.num);
         Response a = playerB.getResponse(moveA);
         playerA.processResponse(moveA, a);
-        logger.info("Player B responce = " + moveA.num + a.toString());
+        logger.info("Player B response = " + moveA.num + a.toString());
         //плеер б отвечает
         Challenge moveB = playerB.getChallenge(rules);
         logger.info("Player B challenge = " + moveB.num);
         Response b = playerA.getResponse(moveB);
-        logger.info("Player A responce = " + moveB.num + b.toString());
+        logger.info("Player A response = " + moveB.num + b.toString());
         playerB.processResponse(moveB, b);
         if (a.getBulls() == rules.getdigits())
             status = GameStatus.WIN_A;
