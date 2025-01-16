@@ -18,10 +18,14 @@ Created objects:
 5. Challenge
 6. Response
 
-Rules: To guess a three-digit number thought up by the opponent. The numbers can consist of unique digits.
-Process: The player makes an attempt by naming a three-digit number, after which the opponent tells them the number of "bulls" and "cows". 
-Bull: Each digit that is correctly guessed and is in the correct position.
-Cow: Each digit that is correctly guessed but is in the wrong position.
+Rules: 
+- To guess a three-digit number thought up by the opponent. The numbers can consist of unique digits.
+Process: 
+- The player makes an attempt by naming a three-digit number, after which the opponent tells them the number of "bulls" and "cows". 
+Bull: 
+- Each digit that is correctly guessed and is in the correct position.
+Cow: 
+- Each digit that is correctly guessed but is in the wrong position.
 Game process:
 ![Alt Text](https://github.com/IR-gitt/JavaLearning/blob/master/GameBullsAndCows/BullAndCowGP.gif)
 
