@@ -158,6 +158,7 @@ public class ChatController {
 
         gridCenter.add(tfLogin, 0, 1);
         gridCenter.add(tfPassword, 0, 2);
+
         gridBottom.add(btLogin, 0, 1);
         gridBottom.add(btReg, 0, 2);
 

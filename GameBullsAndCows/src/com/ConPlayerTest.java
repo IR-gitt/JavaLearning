@@ -1,6 +1,7 @@
 package com;
 
-import org.testng.annotations.Test;
+
+import org.junit.Test;
 
 public class ConPlayerTest {
     @Test
