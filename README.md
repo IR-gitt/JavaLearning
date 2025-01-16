@@ -6,7 +6,7 @@ Chat Operation:
 3. The sending thread receives this message and writes it to the buffer.
 4. The receiving thread reads the message from the buffer and displays it in the other user's interface.
 
-User exp:
+### User exp:
 ![Alt Text](https://github.com/IR-gitt/JavaLearning/blob/master/chat/ChatProc.gif)
 
 ### Bulls and Cows GAME 
@@ -22,6 +22,6 @@ Rules - To guess a three-digit number thought up by the opponent. The numbers ca
 Process - The player makes an attempt by naming a three-digit number, after which the opponent tells them the number of "bulls" and "cows". 
 Bull - Each digit that is correctly guessed and is in the correct position.
 Cow - Each digit that is correctly guessed but is in the wrong position.
-Game process:
+### Game process:
 ![Alt Text](https://github.com/IR-gitt/JavaLearning/blob/master/GameBullsAndCows/BullAndCowGP.gif)
 
