@@ -1,5 +1,5 @@
 ### Chat
-![Alt Text](https://github.com/IR-gitt/JavaLearning/tree/master/GameBullsAndCows/ChatProc.gif)
+![Alt Text](https://github.com/IR-gitt/JavaLearning/blob/master/chat/ChatProc.gif)
 
 ### Bulls and Cows GAME 
 **Created objects:**
@@ -15,5 +15,5 @@ Process: The player makes an attempt by naming a three-digit number, after which
 Bull: Each digit that is correctly guessed and is in the correct position.
 Cow: Each digit that is correctly guessed but is in the wrong position.
 Game proсess:
-![Alt Text](https://github.com/IR-gitt/JavaLearning/tree/master/GameBullsAndCows/BullAndCowGP.gif)
+![Alt Text](https://github.com/IR-gitt/JavaLearning/blob/master/GameBullsAndCows/BullAndCowGP.gif)
 
