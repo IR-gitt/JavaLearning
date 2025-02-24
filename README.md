@@ -25,3 +25,13 @@ Cow - Each digit that is correctly guessed but is in the wrong position.
 ### Game process:
 ![Alt Text](https://github.com/IR-gitt/JavaLearning/blob/master/GameBullsAndCows/BullAndCowGP.gif)
 
+### Example Use Filters
+Example create Filters with pattern change of responsibility and Streams.
+The date filter allows users to limit search results to a specific time period.
+Created filters:
+1. HasLongGroundTime
+2. DepartingBeforeArriving
+3. FutureDepartures
+
+
+

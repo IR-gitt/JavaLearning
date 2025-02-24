@@ -10,10 +10,12 @@
         <module name="server" />
         <module name="gameBullsAndCows" />
         <module name="command" />
+        <module name="filtersForFlights" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="client2" target="1.8" />
+      <module name="filterFlights" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
