@@ -5,7 +5,6 @@ Chat Operation:
 2. User types a message in the chat interface.
 3. The sending thread receives this message and writes it to the buffer.
 4. The receiving thread reads the message from the buffer and displays it in the other user's interface.
-
 ### User exp:
 ![Alt Text](https://github.com/IR-gitt/JavaLearning/blob/master/chat/ChatProc.gif)
 
@@ -32,6 +31,10 @@ Created filters:
 1. HasLongGroundTime
 2. DepartingBeforeArriving
 3. FutureDepartures
+
+### Game Guess Number
+Simple console game in which the computer guesses a number and the user tries to guess it by receiving comments from the computer
+
 
 
 

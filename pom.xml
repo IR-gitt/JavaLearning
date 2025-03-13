@@ -13,6 +13,7 @@
         <module>gameBullsAndCows</module>
         <module>chat</module>
         <module>FiltersForFlightsStreams</module>
+        <module>GuessNumber</module>
     </modules>
 
     <properties>

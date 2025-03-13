@@ -13,7 +13,7 @@ public class Main {
         p1.initialize(rules);
         p2.initialize(rules);
         Communcator.GameStatus result = Communcator.GameStatus.GAME_CONTINUE;
-        while(result== Communcator.GameStatus.GAME_CONTINUE) {
+        while(result == Communcator.GameStatus.GAME_CONTINUE) {
             result = c.GameCycle(rules);
         }
         System.out.println("Game result is: " + result);

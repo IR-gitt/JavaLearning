@@ -9,8 +9,9 @@
         <module name="client" />
         <module name="server" />
         <module name="gameBullsAndCows" />
+        <module name="filtersForFlightsStreams" />
         <module name="command" />
-        <module name="filtersForFlights" />
+        <module name="GuessNumber" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
