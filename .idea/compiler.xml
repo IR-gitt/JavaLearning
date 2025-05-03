@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="client" />
         <module name="server" />
         <module name="gameBullsAndCows" />
+        <module name="client" />
         <module name="filtersForFlightsStreams" />
         <module name="command" />
+        <module name="OnlyOneMethod" />
         <module name="GuessNumber" />
       </profile>
     </annotationProcessing>
@@ -18,5 +19,10 @@
       <module name="client2" target="1.8" />
       <module name="filterFlights" target="17" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="OnlyOneMethod" options="-parameters" />
+    </option>
   </component>
 </project>

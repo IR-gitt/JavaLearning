@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/chat/client/client.iml" filepath="$PROJECT_DIR$/chat/client/client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chat/command/command.iml" filepath="$PROJECT_DIR$/chat/command/command.iml" />
       <module fileurl="file://$PROJECT_DIR$/GameBullsAndCows/gameBullsAndCows.iml" filepath="$PROJECT_DIR$/GameBullsAndCows/gameBullsAndCows.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chat/server/server.iml" filepath="$PROJECT_DIR$/chat/server/server.iml" />
     </modules>
   </component>
 </project>
