@@ -15,6 +15,7 @@
         <module>FiltersForFlightsStreams</module>
         <module>GuessNumber</module>
         <module>OnlyOneMethod</module>
+        <module>bankApp</module>
     </modules>
 
     <properties>

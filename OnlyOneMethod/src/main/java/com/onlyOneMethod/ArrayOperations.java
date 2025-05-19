@@ -30,7 +30,8 @@ public class ArrayOperations {
                 invokeAll(leftTask, rightTask);
             }
         }
-        // Разделение массива
+
+        // Разделение массива (Возвращаем опорный элемент для разделения массива)
         private int partition(int[] array, int low, int high) {
             int pivot = array[high];
             int i = low - 1;
